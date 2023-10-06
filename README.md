@@ -1,2 +1,1 @@
-# GymSite
-A landing page for a gym using React.js
+This is Landing page for Gym implemented using React.js
